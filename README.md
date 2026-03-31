@@ -1,2 +1,2 @@
 # Project-1-Bright-Coffee-Shop-Sales-Analysis-
-This Repository is a collection daily transactional information for Bright Coffee Shop
+This Repository is a collection daily transactional information for Bright Coffee Shop.This project presents a basic business analysis of a coffee shop using data analytics techniques. As a junior analyst, the goal of this project is to explore sales performance, customer behavior, and product trends to generate actionable insights that can help improve business decisions.
